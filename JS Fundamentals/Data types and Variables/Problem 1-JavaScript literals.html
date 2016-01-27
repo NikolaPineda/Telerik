@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    //Boolean literals
+    var falceZero = (false == 0);
+    console.log(falceZero);
+    //Floating-points literals
+    var floatingPoint = -.155;
+    console.log(floatingPoint);
+    // Integers
+    var integers = (300/3) | 0;
+    console.log(integers);
+    //String literals
+    var text = 'One line \nanother line';
+    console.log(text);
+    // Array literals
+    var newArray = ['Nadal', 'Federer', 'Djokovich'];
+    console.log(newArray);
+    //Objects literals
+    var Sales = 'Opel';
+    /**
+     * @return {string}
+     */
+    function CarTypes(name){
+        if(name != 'Opel'){
+            return "Sorry we don't sell " + "name" +".";
+        }
+    }
+    var car = {myCar: "Honda", getCar: CarTypes("Honda"), special: Sales};
+    console.log(car.myCar);
+    console.log(car.getCar);
+    console.log(car.special);
+</script>
+</body>
+</html>
