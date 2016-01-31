@@ -1,5 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 6-The Biggest of Five Numbers\bin\Debug\Problem 6-The Biggest of Five Numbers.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 6-The Biggest of Five Numbers\bin\Debug\Problem 6-The Biggest of Five Numbers.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 6-The Biggest of Five Numbers\bin\Debug\Problem 6-The Biggest of Five Numbers.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 6-The Biggest of Five Numbers\obj\Debug\Problem 6-The Biggest of Five Numbers.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 6-The Biggest of Five Numbers\obj\Debug\Problem 6-The Biggest of Five Numbers.pdb

@@ -1,1 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Homework-Operators and Expressions\bin\Debug\Homework-Operators and Expressions.exe.config

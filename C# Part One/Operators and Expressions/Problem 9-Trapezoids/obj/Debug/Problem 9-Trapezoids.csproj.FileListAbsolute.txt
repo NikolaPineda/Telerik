@@ -1,5 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 9-Trapezoids\bin\Debug\Problem 9-Trapezoids.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 9-Trapezoids\bin\Debug\Problem 9-Trapezoids.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 9-Trapezoids\bin\Debug\Problem 9-Trapezoids.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 9-Trapezoids\obj\Debug\Problem 9-Trapezoids.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 9-Trapezoids\obj\Debug\Problem 9-Trapezoids.pdb

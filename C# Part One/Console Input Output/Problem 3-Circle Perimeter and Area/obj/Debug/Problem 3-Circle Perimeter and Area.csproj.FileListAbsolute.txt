@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 3-Circle Perimeter and Area\bin\Debug\Problem 3-Circle Perimeter and Area.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 3-Circle Perimeter and Area\bin\Debug\Problem 3-Circle Perimeter and Area.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 3-Circle Perimeter and Area\bin\Debug\Problem 3-Circle Perimeter and Area.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 3-Circle Perimeter and Area\obj\Debug\Problem 3-Circle Perimeter and Area.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 3-Circle Perimeter and Area\obj\Debug\Problem 3-Circle Perimeter and Area.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 3-Circle Perimeter and Area\obj\Debug\Problem 3-Circle Perimeter and Area.pdb

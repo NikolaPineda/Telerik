@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 10\bin\Debug\Problem 10.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 10\obj\Debug\Problem 10.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 10\obj\Debug\Problem 10.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 10\obj\Debug\Problem 10 -Inside a Circle  Outside of a Rect NE.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 10\bin\Debug\Problem 10.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 10\bin\Debug\Problem 10.pdb

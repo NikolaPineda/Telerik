@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 4-Unicode Character\bin\Debug\Problem 4-Unicode Character.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 4-Unicode Character\bin\Debug\Problem 4-Unicode Character.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 4-Unicode Character\bin\Debug\Problem 4-Unicode Character.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 4-Unicode Character\obj\Debug\Problem 4-Unicode Character.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 4-Unicode Character\obj\Debug\Problem 4-Unicode Character.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 4-Unicode Character\obj\Debug\Problem 4-Unicode Character.pdb

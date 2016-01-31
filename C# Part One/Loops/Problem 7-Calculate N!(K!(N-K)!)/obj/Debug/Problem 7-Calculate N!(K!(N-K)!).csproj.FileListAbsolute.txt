@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 7-Calculate N!(K!(N-K)!)\bin\Debug\Problem 7-Calculate N!(K!(N-K)!).exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 7-Calculate N!(K!(N-K)!)\bin\Debug\Problem 7-Calculate N!(K!(N-K)!).exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 7-Calculate N!(K!(N-K)!)\bin\Debug\Problem 7-Calculate N!(K!(N-K)!).pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 7-Calculate N!(K!(N-K)!)\obj\Debug\Problem 7-Calculate N!(K!(N-K)!).csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 7-Calculate N!(K!(N-K)!)\obj\Debug\Problem 7-Calculate N!(K!(N-K)!).exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 7-Calculate N!(K!(N-K)!)\obj\Debug\Problem 7-Calculate N!(K!(N-K)!).pdb

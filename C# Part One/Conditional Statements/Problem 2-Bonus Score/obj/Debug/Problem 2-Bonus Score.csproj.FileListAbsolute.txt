@@ -1,5 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 2-Bonus Score\bin\Debug\Problem 2-Bonus Score.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 2-Bonus Score\bin\Debug\Problem 2-Bonus Score.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 2-Bonus Score\bin\Debug\Problem 2-Bonus Score.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 2-Bonus Score\obj\Debug\Problem 2-Bonus Score.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 2-Bonus Score\obj\Debug\Problem 2-Bonus Score.pdb

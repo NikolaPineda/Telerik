@@ -1,5 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 6 - Quadratic Equation\bin\Debug\Problem 6 - Quadratic Equation.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 6 - Quadratic Equation\bin\Debug\Problem 6 - Quadratic Equation.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 6 - Quadratic Equation\bin\Debug\Problem 6 - Quadratic Equation.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 6 - Quadratic Equation\obj\Debug\Problem 6 - Quadratic Equation.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 6 - Quadratic Equation\obj\Debug\Problem 6 - Quadratic Equation.pdb

@@ -1,5 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 17-Calculate GCD\bin\Debug\Problem 17-Calculate GCD.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 17-Calculate GCD\bin\Debug\Problem 17-Calculate GCD.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 17-Calculate GCD\bin\Debug\Problem 17-Calculate GCD.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 17-Calculate GCD\obj\Debug\Problem 17-Calculate GCD.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 17-Calculate GCD\obj\Debug\Problem 17-Calculate GCD.pdb

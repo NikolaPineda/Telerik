@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 11-Number as Words\bin\Debug\Problem 11-Number as Words.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 11-Number as Words\bin\Debug\Problem 11-Number as Words.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 11-Number as Words\bin\Debug\Problem 11-Number as Words.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 11-Number as Words\obj\Debug\Problem 11-Number as Words.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 11-Number as Words\obj\Debug\Problem 11-Number as Words.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 11-Number as Words\obj\Debug\Problem 11-Number as Words.pdb

@@ -1,9 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 1-Exchange If Greater\bin\Debug\Problem 1-Exchange If Greater.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 1-Exchange If Greater\bin\Debug\Problem 1-Exchange If Greater.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 1-Exchange If Greater\bin\Debug\Problem 1-Exchange If Greater.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 1-Exchange If Greater\obj\Debug\Problem 1-Exchange If Greater.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 1-Exchange If Greater\obj\Debug\Problem 1-Exchange If Greater.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 1-Exchange If Greater\obj\Debug\Problem 1-Exchange If Greater.pdb
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Conditional Statements\Problem 1-Exchange If Greater\bin\Debug\Problem 1-Exchange If Greater.exe.config
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Conditional Statements\Problem 1-Exchange If Greater\obj\Debug\Problem 1-Exchange If Greater.exe
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Conditional Statements\Problem 1-Exchange If Greater\obj\Debug\Problem 1-Exchange If Greater.pdb

@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 7-Quotes in Strings\bin\Debug\Problem 7-Quotes in Strings.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 7-Quotes in Strings\bin\Debug\Problem 7-Quotes in Strings.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 7-Quotes in Strings\bin\Debug\Problem 7-Quotes in Strings.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 7-Quotes in Strings\obj\Debug\Problem 7-Quotes in Strings.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 7-Quotes in Strings\obj\Debug\Problem 7-Quotes in Strings.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 7-Quotes in Strings\obj\Debug\Problem 7-Quotes in Strings.pdb

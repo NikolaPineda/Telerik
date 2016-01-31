@@ -1,1 +1,0 @@
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 7-First and Last\bin\Debug\Problem 7-First and Last.exe.config

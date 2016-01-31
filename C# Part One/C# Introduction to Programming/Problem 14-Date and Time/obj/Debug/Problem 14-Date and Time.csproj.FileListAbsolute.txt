@@ -1,6 +1,0 @@
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 14-Date and Time\bin\Debug\Problem 14-Date and Time.exe.config
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 14-Date and Time\bin\Debug\Problem 14-Date and Time.exe
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 14-Date and Time\bin\Debug\Problem 14-Date and Time.pdb
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 14-Date and Time\obj\Debug\Problem 14-Date and Time.csprojResolveAssemblyReference.cache
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 14-Date and Time\obj\Debug\Problem 14-Date and Time.exe
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 14-Date and Time\obj\Debug\Problem 14-Date and Time.pdb

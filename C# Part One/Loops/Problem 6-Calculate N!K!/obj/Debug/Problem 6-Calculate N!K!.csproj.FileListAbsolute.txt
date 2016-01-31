@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 6-Calculate N!K!\bin\Debug\Problem 6-Calculate N!K!.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 6-Calculate N!K!\bin\Debug\Problem 6-Calculate N!K!.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 6-Calculate N!K!\bin\Debug\Problem 6-Calculate N!K!.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 6-Calculate N!K!\obj\Debug\Problem 6-Calculate N!K!.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 6-Calculate N!K!\obj\Debug\Problem 6-Calculate N!K!.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 6-Calculate N!K!\obj\Debug\Problem 6-Calculate N!K!.csprojResolveAssemblyReference.cache

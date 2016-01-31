@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 13-Comparing Floats\bin\Debug\Problem 13-Comparing Floats.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 13-Comparing Floats\bin\Debug\Problem 13-Comparing Floats.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 13-Comparing Floats\bin\Debug\Problem 13-Comparing Floats.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 13-Comparing Floats\obj\Debug\Problem 13-Comparing Floats.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 13-Comparing Floats\obj\Debug\Problem 13-Comparing Floats.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 13-Comparing Floats\obj\Debug\Problem 13-Comparing Floats.pdb

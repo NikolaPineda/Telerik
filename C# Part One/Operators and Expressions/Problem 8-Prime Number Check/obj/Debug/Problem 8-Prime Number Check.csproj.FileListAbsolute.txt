@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 8-Prime Number Check\bin\Debug\Problem 8-Prime Number Check.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 8-Prime Number Check\bin\Debug\Problem 8-Prime Number Check.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 8-Prime Number Check\bin\Debug\Problem 8-Prime Number Check.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 8-Prime Number Check\obj\Debug\Problem 8-Prime Number Check.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 8-Prime Number Check\obj\Debug\Problem 8-Prime Number Check.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 8-Prime Number Check\obj\Debug\Problem 8-Prime Number Check.pdb

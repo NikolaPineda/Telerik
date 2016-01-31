@@ -1,9 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 16-Bit Exchange (Advanced)\bin\Debug\Problem 16-Bit Exchange (Advanced).exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 16-Bit Exchange (Advanced)\bin\Debug\Problem 16-Bit Exchange (Advanced).exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 16-Bit Exchange (Advanced)\bin\Debug\Problem 16-Bit Exchange (Advanced).pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 16-Bit Exchange (Advanced)\obj\Debug\Problem 16-Bit Exchange (Advanced).csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 16-Bit Exchange (Advanced)\obj\Debug\Problem 16-Bit Exchange (Advanced).exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 16-Bit Exchange (Advanced)\obj\Debug\Problem 16-Bit Exchange (Advanced).pdb
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\Homework-Operators and Expressions\Problem 16-Bit Exchange (Advanced)\bin\Debug\Problem 16-Bit Exchange (Advanced).exe.config
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\Homework-Operators and Expressions\Problem 16-Bit Exchange (Advanced)\obj\Debug\Problem 16-Bit Exchange (Advanced).exe
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\Homework-Operators and Expressions\Problem 16-Bit Exchange (Advanced)\obj\Debug\Problem 16-Bit Exchange (Advanced).pdb

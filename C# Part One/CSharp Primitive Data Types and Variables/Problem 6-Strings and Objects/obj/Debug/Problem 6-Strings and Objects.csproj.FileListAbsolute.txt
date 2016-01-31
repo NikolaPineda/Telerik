@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 6-Strings and Objects\bin\Debug\Problem 6-Strings and Objects.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 6-Strings and Objects\bin\Debug\Problem 6-Strings and Objects.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 6-Strings and Objects\bin\Debug\Problem 6-Strings and Objects.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 6-Strings and Objects\obj\Debug\Problem 6-Strings and Objects.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 6-Strings and Objects\obj\Debug\Problem 6-Strings and Objects.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 6-Strings and Objects\obj\Debug\Problem 6-Strings and Objects.pdb

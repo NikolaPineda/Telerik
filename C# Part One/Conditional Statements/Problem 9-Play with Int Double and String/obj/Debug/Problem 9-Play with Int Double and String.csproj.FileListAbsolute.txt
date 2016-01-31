@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 9-Play with Int Double and String\bin\Debug\Problem 9-Play with Int Double and String.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 9-Play with Int Double and String\bin\Debug\Problem 9-Play with Int Double and String.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 9-Play with Int Double and String\bin\Debug\Problem 9-Play with Int Double and String.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 9-Play with Int Double and String\obj\Debug\Problem 9-Play with Int Double and String.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 9-Play with Int Double and String\obj\Debug\Problem 9-Play with Int Double and String.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 9-Play with Int Double and String\obj\Debug\Problem 9-Play with Int Double and String.pdb

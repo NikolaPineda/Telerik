@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 8-Isosceles Triangle\bin\Debug\Problem 8-Isosceles Triangle.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 8-Isosceles Triangle\bin\Debug\Problem 8-Isosceles Triangle.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 8-Isosceles Triangle\bin\Debug\Problem 8-Isosceles Triangle.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 8-Isosceles Triangle\obj\Debug\Problem 8-Isosceles Triangle.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 8-Isosceles Triangle\obj\Debug\Problem 8-Isosceles Triangle.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 8-Isosceles Triangle\obj\Debug\Problem 8-Isosceles Triangle.pdb

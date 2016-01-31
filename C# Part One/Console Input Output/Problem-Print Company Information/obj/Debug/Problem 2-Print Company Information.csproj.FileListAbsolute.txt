@@ -1,5 +1,0 @@
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Console Input Output\Problem-Print Company Information\bin\Debug\Problem-Print Company Information.exe.config
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Console Input Output\Problem-Print Company Information\obj\Debug\Problem-Print Company Information.exe
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Console Input Output\Problem-Print Company Information\obj\Debug\Problem-Print Company Information.pdb
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Console Input Output\Problem-Print Company Information\bin\Debug\Problem-Print Company Information.exe
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Console Input Output\Problem-Print Company Information\bin\Debug\Problem-Print Company Information.pdb

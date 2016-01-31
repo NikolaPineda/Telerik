@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 5-Boolean Variable\bin\Debug\Problem 5-Boolean Variable.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 5-Boolean Variable\bin\Debug\Problem 5-Boolean Variable.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 5-Boolean Variable\bin\Debug\Problem 5-Boolean Variable.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 5-Boolean Variable\obj\Debug\Problem 5-Boolean Variable.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 5-Boolean Variable\obj\Debug\Problem 5-Boolean Variable.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 5-Boolean Variable\obj\Debug\Problem 5-Boolean Variable.pdb

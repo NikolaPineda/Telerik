@@ -1,9 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Homework-Operators and Expressions\bin\Debug\Homework-Operators and Expressions.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Homework-Operators and Expressions\bin\Debug\Homework-Operators and Expressions.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Homework-Operators and Expressions\bin\Debug\Homework-Operators and Expressions.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Homework-Operators and Expressions\obj\Debug\Problem 1-Odd or Even Integers.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Homework-Operators and Expressions\obj\Debug\Homework-Operators and Expressions.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Homework-Operators and Expressions\obj\Debug\Homework-Operators and Expressions.pdb
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Operators and Expressions\Homework-Operators and Expressions\bin\Debug\Homework-Operators and Expressions.exe.config
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Operators and Expressions\Homework-Operators and Expressions\obj\Debug\Homework-Operators and Expressions.exe
-D:\Folders Pineda\Desktop\Telerik\C# Part One\Operators and Expressions\Homework-Operators and Expressions\obj\Debug\Homework-Operators and Expressions.pdb

@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 7-Sort 3 Numbers with Nested Ifs\bin\Debug\Problem 7-Sort 3 Numbers with Nested Ifs.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 7-Sort 3 Numbers with Nested Ifs\bin\Debug\Problem 7-Sort 3 Numbers with Nested Ifs.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 7-Sort 3 Numbers with Nested Ifs\bin\Debug\Problem 7-Sort 3 Numbers with Nested Ifs.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 7-Sort 3 Numbers with Nested Ifs\obj\Debug\Problem 7-Sort 3 Numbers with Nested Ifs.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 7-Sort 3 Numbers with Nested Ifs\obj\Debug\Problem 7-Sort 3 Numbers with Nested Ifs.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 7-Sort 3 Numbers with Nested Ifs\obj\Debug\Problem 7-Sort 3 Numbers with Nested Ifs.pdb

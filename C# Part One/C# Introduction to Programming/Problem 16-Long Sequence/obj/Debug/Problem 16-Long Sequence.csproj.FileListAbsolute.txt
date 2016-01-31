@@ -1,6 +1,0 @@
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 16-Long Sequence\bin\Debug\Problem 16-Long Sequence.exe.config
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 16-Long Sequence\bin\Debug\Problem 16-Long Sequence.exe
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 16-Long Sequence\bin\Debug\Problem 16-Long Sequence.pdb
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 16-Long Sequence\obj\Debug\Problem 16-Long Sequence.csprojResolveAssemblyReference.cache
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 16-Long Sequence\obj\Debug\Problem 16-Long Sequence.exe
-C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 16-Long Sequence\obj\Debug\Problem 16-Long Sequence.pdb

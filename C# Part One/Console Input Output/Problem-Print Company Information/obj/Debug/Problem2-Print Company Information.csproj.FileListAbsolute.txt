@@ -1,3 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem-Print Company Information\bin\Debug\Problem-Print Company Information.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem-Print Company Information\obj\Debug\Problem-Print Company Information.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem-Print Company Information\obj\Debug\Problem-Print Company Information.pdb

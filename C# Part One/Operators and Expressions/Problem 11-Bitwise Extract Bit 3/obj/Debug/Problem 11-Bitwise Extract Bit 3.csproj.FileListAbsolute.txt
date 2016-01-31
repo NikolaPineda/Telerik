@@ -1,6 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 11-Bitwise Extract Bit 3\bin\Debug\Problem 11-Bitwise Extract Bit 3.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 11-Bitwise Extract Bit 3\bin\Debug\Problem 11-Bitwise Extract Bit 3.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 11-Bitwise Extract Bit 3\bin\Debug\Problem 11-Bitwise Extract Bit 3.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 11-Bitwise Extract Bit 3\obj\Debug\Problem 11-Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 11-Bitwise Extract Bit 3\obj\Debug\Problem 11-Bitwise Extract Bit 3.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 11-Bitwise Extract Bit 3\obj\Debug\Problem 11-Bitwise Extract Bit 3.pdb

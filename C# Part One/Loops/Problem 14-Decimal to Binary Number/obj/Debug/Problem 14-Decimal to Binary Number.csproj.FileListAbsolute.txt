@@ -1,5 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 14-Decimal to Binary Number\bin\Debug\Problem 14-Decimal to Binary Number.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 14-Decimal to Binary Number\bin\Debug\Problem 14-Decimal to Binary Number.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 14-Decimal to Binary Number\bin\Debug\Problem 14-Decimal to Binary Number.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 14-Decimal to Binary Number\obj\Debug\Problem 14-Decimal to Binary Number.exe
-c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 14-Decimal to Binary Number\obj\Debug\Problem 14-Decimal to Binary Number.pdb

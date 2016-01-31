@@ -1,9 +1,0 @@
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\bin\Debug\Problem 1-Declare Variables.exe.config
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\bin\Debug\Problem 1-Declare Variables.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\bin\Debug\Problem 1-Declare Variables.pdb
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\obj\Debug\Problem 1-Declare Variables.csprojResolveAssemblyReference.cache
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\obj\Debug\Problem 1-Declare Variables.exe
-c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\obj\Debug\Problem 1-Declare Variables.pdb
-D:\Folders Pineda\Desktop\Telerik\C# Part One\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\bin\Debug\Problem 1-Declare Variables.exe.config
-D:\Folders Pineda\Desktop\Telerik\C# Part One\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\obj\Debug\Problem 1-Declare Variables.exe
-D:\Folders Pineda\Desktop\Telerik\C# Part One\CSharp Primitive Data Types and Variables\Problem 1-Declare Variables\obj\Debug\Problem 1-Declare Variables.pdb
