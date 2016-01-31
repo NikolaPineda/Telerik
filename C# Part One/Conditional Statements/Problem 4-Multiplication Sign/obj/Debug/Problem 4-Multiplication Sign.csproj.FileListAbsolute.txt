@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 4-Multiplication Sign\bin\Debug\Problem 4-Multiplication Sign.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 4-Multiplication Sign\bin\Debug\Problem 4-Multiplication Sign.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 4-Multiplication Sign\bin\Debug\Problem 4-Multiplication Sign.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 4-Multiplication Sign\obj\Debug\Problem 4-Multiplication Sign.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 4-Multiplication Sign\obj\Debug\Problem 4-Multiplication Sign.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 4-Multiplication Sign\obj\Debug\Problem 4-Multiplication Sign.pdb

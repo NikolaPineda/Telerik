@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 4 - Number Comparer\bin\Debug\Problem 4 - Number Comparer.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 4 - Number Comparer\bin\Debug\Problem 4 - Number Comparer.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 4 - Number Comparer\bin\Debug\Problem 4 - Number Comparer.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 4 - Number Comparer\obj\Debug\Problem 4 - Number Comparer.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 4 - Number Comparer\obj\Debug\Problem 4 - Number Comparer.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 4 - Number Comparer\obj\Debug\Problem 4 - Number Comparer.pdb

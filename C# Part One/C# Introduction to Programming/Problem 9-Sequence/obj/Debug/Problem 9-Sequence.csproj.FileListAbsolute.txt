@@ -1,0 +1,6 @@
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 9-Sequence\bin\Debug\Problem 9-Sequence.exe.config
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 9-Sequence\bin\Debug\Problem 9-Sequence.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 9-Sequence\bin\Debug\Problem 9-Sequence.pdb
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 9-Sequence\obj\Debug\Problem 9-Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 9-Sequence\obj\Debug\Problem 9-Sequence.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 9-Sequence\obj\Debug\Problem 9-Sequence.pdb

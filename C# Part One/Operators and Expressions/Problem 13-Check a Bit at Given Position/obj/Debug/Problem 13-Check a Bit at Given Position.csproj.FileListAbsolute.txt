@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 13-Check a Bit at Given Position\bin\Debug\Problem 13-Check a Bit at Given Position.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 13-Check a Bit at Given Position\bin\Debug\Problem 13-Check a Bit at Given Position.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 13-Check a Bit at Given Position\bin\Debug\Problem 13-Check a Bit at Given Position.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 13-Check a Bit at Given Position\obj\Debug\Problem 13-Check a Bit at Given Position.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 13-Check a Bit at Given Position\obj\Debug\Problem 13-Check a Bit at Given Position.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 13-Check a Bit at Given Position\obj\Debug\Problem 13-Check a Bit at Given Position.pdb

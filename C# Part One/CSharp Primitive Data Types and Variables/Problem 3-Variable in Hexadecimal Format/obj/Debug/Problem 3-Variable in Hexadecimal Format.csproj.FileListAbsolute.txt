@@ -1,0 +1,5 @@
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 3-Variable in Hexadecimal Format\bin\Debug\Problem 3-Variable in Hexadecimal Format.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 3-Variable in Hexadecimal Format\bin\Debug\Problem 3-Variable in Hexadecimal Format.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 3-Variable in Hexadecimal Format\bin\Debug\Problem 3-Variable in Hexadecimal Format.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 3-Variable in Hexadecimal Format\obj\Debug\Problem 3-Variable in Hexadecimal Format.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 3-Variable in Hexadecimal Format\obj\Debug\Problem 3-Variable in Hexadecimal Format.pdb

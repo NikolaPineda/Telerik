@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 10-Beer Time\bin\Debug\Problem 10-Beer Time.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 10-Beer Time\bin\Debug\Problem 10-Beer Time.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 10-Beer Time\bin\Debug\Problem 10-Beer Time.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 10-Beer Time\obj\Debug\Problem 10-Beer Time.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 10-Beer Time\obj\Debug\Problem 10-Beer Time.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 10-Beer Time\obj\Debug\Problem 10-Beer Time.pdb

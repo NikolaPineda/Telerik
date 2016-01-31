@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 15-Bits Exchange\bin\Debug\Problem 15-Bits Exchange.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 15-Bits Exchange\obj\Debug\Problem 15-Bits Exchange.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 15-Bits Exchange\bin\Debug\Problem 15-Bits Exchange.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 15-Bits Exchange\bin\Debug\Problem 15-Bits Exchange.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 15-Bits Exchange\obj\Debug\Problem 15-Bits Exchange.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 15-Bits Exchange\obj\Debug\Problem 15-Bits Exchange.pdb

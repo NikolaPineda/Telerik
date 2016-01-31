@@ -1,0 +1,21 @@
+Programming languages
+  1. Java – it’s object-oriented and class-based programming language. 
+Can work across multiple software platforms. 
+This means that a program, written in Java, can work not only on Windows, but also on other software. 
+It’s similar with C# for both are object-oriented.
+  2. C++ - this language is also object-oriented. 
+It’s used to develop systems software, application software and est. 
+It’s used by many organizations, such as Microsoft and Intel. 
+C#, as well as Java, has been influenced by this language.
+  3. Python – it’s also object-oriented language, but in contrast to C#, includes imperative, 
+functional programming and procedural styles. 
+It requires fewer lines to write a code, than C#. We can say it’s multy-paradigm programming language.   
+  4. F# - it contains programming techniques, such as functional, imperative and object-oriented. 
+Despite it’s object-oriented, like C#, this language is most often used as cross language. 
+Like C#, F# is supported language in Visual Studio. 
+Also while writing a code F# deduces types and there is no need the programmer to declare them. 
+And the syntax is a bit different form one in C#.  
+  5. Ruby – it is also an object-oriented language and has a dynamic type system. 
+Its syntax is different from the one in C# for the lack of braces when keywords are used to define logical code blocks. 
+And there is no distinguish between expressions and statements.
+

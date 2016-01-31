@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 6-Four-Digit Number\bin\Debug\Problem 6-Four-Digit Number.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 6-Four-Digit Number\bin\Debug\Problem 6-Four-Digit Number.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 6-Four-Digit Number\bin\Debug\Problem 6-Four-Digit Number.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 6-Four-Digit Number\obj\Debug\Problem 6-Four-Digit Number.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 6-Four-Digit Number\obj\Debug\Problem 6-Four-Digit Number.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 6-Four-Digit Number\obj\Debug\Problem 6-Four-Digit Number.pdb

@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 3-Check for a Play Card\bin\Debug\Problem 3-Check for a Play Card.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 3-Check for a Play Card\bin\Debug\Problem 3-Check for a Play Card.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 3-Check for a Play Card\bin\Debug\Problem 3-Check for a Play Card.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 3-Check for a Play Card\obj\Debug\Problem 3-Check for a Play Card.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 3-Check for a Play Card\obj\Debug\Problem 3-Check for a Play Card.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 3-Check for a Play Card\obj\Debug\Problem 3-Check for a Play Card.pdb

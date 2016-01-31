@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 12-Null Values Arithmetic\bin\Debug\Problem 12-Null Values Arithmetic.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 12-Null Values Arithmetic\bin\Debug\Problem 12-Null Values Arithmetic.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 12-Null Values Arithmetic\bin\Debug\Problem 12-Null Values Arithmetic.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 12-Null Values Arithmetic\obj\Debug\Problem 12-Null Values Arithmetic.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 12-Null Values Arithmetic\obj\Debug\Problem 12-Null Values Arithmetic.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 12-Null Values Arithmetic\obj\Debug\Problem 12-Null Values Arithmetic.pdb

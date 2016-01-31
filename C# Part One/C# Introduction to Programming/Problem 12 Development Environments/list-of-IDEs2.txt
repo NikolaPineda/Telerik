@@ -1,0 +1,19 @@
+Integrated development environments (IDEs)
+  1. Eclipse – this IDE contains compiler and interpreter. 
+It can be used to develop applications in other programming languages like C++, JavaScript, 
+Python and est. Its software development kit (SDK) is meant for Java developers, which can install 
+plug-ins for the Eclipse Platform and can write and contribute their own plug-in modules.
+  2. Lazarus – this is a free cross-platform visual IDE, which supports dialects of Object Pascal. 
+It’s used to create native-code console and graphic user interface applications for the desktop, for mobile devices, 
+function libraries, web applications and others. An application, created by using Lazarus, can potentially compile 
+and execute on any platform for which a Free Pascal compiler exists. 
+  3. Net Beans – it is IDE for developing primarily with Java, but also with other languages like C++ and HTML. 
+The Net Beans platform allows different applications to be developed from a set of modular software 
+components called modules. This platform simplifies the development of Java Swing desktop applications.   
+  4. Softbench – it’s one of the first plug-in IDE tool based on the UNIX operating system. 
+Some of the ideas of this IDE are common today in other well-known IDEs, like Eclipse. Basically the main
+ideas are: tools and data can reside on many different systems, integrated help facility, tool slots and common user interface.
+  5. KTechlab – it’s an Open Source IDE for electronic and PIC microcontroller circuit 
+design and simulation. Also this is a circuit designer with auto-routing and a simulator of common 
+electronic components and logic elements. But this environment is not fully completed, so the work on it continues.   
+

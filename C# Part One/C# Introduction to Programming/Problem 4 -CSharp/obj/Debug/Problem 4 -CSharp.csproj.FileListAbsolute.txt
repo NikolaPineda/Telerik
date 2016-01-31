@@ -1,0 +1,9 @@
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 4 -CSharp\bin\Debug\Problem 4 -CSharp.exe.config
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 4 -CSharp\bin\Debug\Problem 4 -CSharp.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 4 -CSharp\bin\Debug\Problem 4 -CSharp.pdb
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 4 -CSharp\obj\Debug\Problem 4 -CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 4 -CSharp\obj\Debug\Problem 4 -CSharp.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 4 -CSharp\obj\Debug\Problem 4 -CSharp.pdb
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\C# Introduction to Programming Homework\Problem 4 -CSharp\bin\Debug\Problem 4 -CSharp.exe.config
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\C# Introduction to Programming Homework\Problem 4 -CSharp\obj\Debug\Problem 4 -CSharp.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\C# Introduction to Programming Homework\Problem 4 -CSharp\obj\Debug\Problem 4 -CSharp.pdb

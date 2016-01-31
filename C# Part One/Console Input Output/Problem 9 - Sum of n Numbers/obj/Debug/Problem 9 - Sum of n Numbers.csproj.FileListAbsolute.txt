@@ -1,0 +1,5 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 9 - Sum of n Numbers\bin\Debug\Problem 9 - Sum of n Numbers.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 9 - Sum of n Numbers\bin\Debug\Problem 9 - Sum of n Numbers.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 9 - Sum of n Numbers\bin\Debug\Problem 9 - Sum of n Numbers.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 9 - Sum of n Numbers\obj\Debug\Problem 9 - Sum of n Numbers.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 9 - Sum of n Numbers\obj\Debug\Problem 9 - Sum of n Numbers.pdb

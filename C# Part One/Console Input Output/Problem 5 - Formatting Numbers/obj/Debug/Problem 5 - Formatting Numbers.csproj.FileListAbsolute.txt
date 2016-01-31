@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 5 - Formatting Numbers\bin\Debug\Problem 5 - Formatting Numbers.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 5 - Formatting Numbers\bin\Debug\Problem 5 - Formatting Numbers.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 5 - Formatting Numbers\bin\Debug\Problem 5 - Formatting Numbers.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 5 - Formatting Numbers\obj\Debug\Problem 5 - Formatting Numbers.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 5 - Formatting Numbers\obj\Debug\Problem 5 - Formatting Numbers.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework-Console Input Output\Problem 5 - Formatting Numbers\obj\Debug\Problem 5 - Formatting Numbers.pdb

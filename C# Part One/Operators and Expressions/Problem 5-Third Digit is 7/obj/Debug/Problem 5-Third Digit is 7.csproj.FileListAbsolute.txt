@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 5-Third Digit is 7\bin\Debug\Problem 5-Third Digit is 7.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 5-Third Digit is 7\bin\Debug\Problem 5-Third Digit is 7.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 5-Third Digit is 7\bin\Debug\Problem 5-Third Digit is 7.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 5-Third Digit is 7\obj\Debug\Problem 5-Third Digit is 7.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 5-Third Digit is 7\obj\Debug\Problem 5-Third Digit is 7.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 5-Third Digit is 7\obj\Debug\Problem 5-Third Digit is 7.pdb

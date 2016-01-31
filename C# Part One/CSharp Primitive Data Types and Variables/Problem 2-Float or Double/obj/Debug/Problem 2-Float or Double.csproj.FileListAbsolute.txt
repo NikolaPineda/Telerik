@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 2-Float or Double\bin\Debug\Problem 2-Float or Double.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 2-Float or Double\bin\Debug\Problem 2-Float or Double.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 2-Float or Double\bin\Debug\Problem 2-Float or Double.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 2-Float or Double\obj\Debug\Problem 2-Float or Double.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 2-Float or Double\obj\Debug\Problem 2-Float or Double.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 2-Float or Double\obj\Debug\Problem 2-Float or Double.pdb

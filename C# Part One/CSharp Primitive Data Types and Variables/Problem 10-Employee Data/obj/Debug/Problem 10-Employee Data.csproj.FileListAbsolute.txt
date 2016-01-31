@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 10-Employee Data\bin\Debug\Problem 10-Employee Data.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 10-Employee Data\bin\Debug\Problem 10-Employee Data.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 10-Employee Data\bin\Debug\Problem 10-Employee Data.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 10-Employee Data\obj\Debug\Problem 10-Employee Data.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 10-Employee Data\obj\Debug\Problem 10-Employee Data.exe
+c:\users\pineda\documents\visual studio 2013\Projects\CSharp Primitive Data Types and Variables\Problem 10-Employee Data\obj\Debug\Problem 10-Employee Data.pdb

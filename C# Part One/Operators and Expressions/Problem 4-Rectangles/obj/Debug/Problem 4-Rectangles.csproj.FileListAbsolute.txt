@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 4-Rectangles\bin\Debug\Problem 4-Rectangles.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 4-Rectangles\bin\Debug\Problem 4-Rectangles.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 4-Rectangles\bin\Debug\Problem 4-Rectangles.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 4-Rectangles\obj\Debug\Problem 4-Rectangles.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 4-Rectangles\obj\Debug\Problem 4-Rectangles.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 4-Rectangles\obj\Debug\Problem 4-Rectangles.pdb

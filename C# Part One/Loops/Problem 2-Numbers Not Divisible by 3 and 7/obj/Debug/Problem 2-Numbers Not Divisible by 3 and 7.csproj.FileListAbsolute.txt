@@ -1,0 +1,5 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 2-Numbers Not Divisible by 3 and 7\bin\Debug\Problem 2-Numbers Not Divisible by 3 and 7.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 2-Numbers Not Divisible by 3 and 7\bin\Debug\Problem 2-Numbers Not Divisible by 3 and 7.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 2-Numbers Not Divisible by 3 and 7\bin\Debug\Problem 2-Numbers Not Divisible by 3 and 7.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 2-Numbers Not Divisible by 3 and 7\obj\Debug\Problem 2-Numbers Not Divisible by 3 and 7.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 2-Numbers Not Divisible by 3 and 7\obj\Debug\Problem 2-Numbers Not Divisible by 3 and 7.pdb

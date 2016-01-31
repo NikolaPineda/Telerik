@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 19-Spiral Matrix\bin\Debug\Problem 19-Spiral Matrix.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 19-Spiral Matrix\bin\Debug\Problem 19-Spiral Matrix.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 19-Spiral Matrix\bin\Debug\Problem 19-Spiral Matrix.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 19-Spiral Matrix\obj\Debug\Problem 19-Spiral Matrix.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 19-Spiral Matrix\obj\Debug\Problem 19-Spiral Matrix.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 19-Spiral Matrix\obj\Debug\Problem 19-Spiral Matrix.pdb

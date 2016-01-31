@@ -1,0 +1,6 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 10-Odd and Even Product\bin\Debug\Problem 10-Odd and Even Product.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 10-Odd and Even Product\bin\Debug\Problem 10-Odd and Even Product.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 10-Odd and Even Product\bin\Debug\Problem 10-Odd and Even Product.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 10-Odd and Even Product\obj\Debug\Problem 10-Odd and Even Product.csprojResolveAssemblyReference.cache
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 10-Odd and Even Product\obj\Debug\Problem 10-Odd and Even Product.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 6 Loops\Problem 10-Odd and Even Product\obj\Debug\Problem 10-Odd and Even Product.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 10-Reformat Code\bin\Debug\Problem 10-Reformat Code.exe.config
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 10-Reformat Code\bin\Debug\Problem 10-Reformat Code.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 10-Reformat Code\bin\Debug\Problem 10-Reformat Code.pdb
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 10-Reformat Code\obj\Debug\Problem 10-Reformat Code.csprojResolveAssemblyReference.cache
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 10-Reformat Code\obj\Debug\Problem 10-Reformat Code.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 10-Reformat Code\obj\Debug\Problem 10-Reformat Code.pdb

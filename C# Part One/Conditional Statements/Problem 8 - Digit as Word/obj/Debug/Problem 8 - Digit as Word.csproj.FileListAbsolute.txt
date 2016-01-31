@@ -1,0 +1,5 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 8 - Digit as Word\bin\Debug\Problem 8 - Digit as Word.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 8 - Digit as Word\bin\Debug\Problem 8 - Digit as Word.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 8 - Digit as Word\bin\Debug\Problem 8 - Digit as Word.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 8 - Digit as Word\obj\Debug\Problem 8 - Digit as Word.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Homework 5 Conditional Statements\Problem 8 - Digit as Word\obj\Debug\Problem 8 - Digit as Word.pdb

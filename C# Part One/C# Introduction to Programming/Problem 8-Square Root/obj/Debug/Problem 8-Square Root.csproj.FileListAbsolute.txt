@@ -1,0 +1,6 @@
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 8-Square Root\bin\Debug\Problem 8-Square Root.exe.config
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 8-Square Root\bin\Debug\Problem 8-Square Root.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 8-Square Root\bin\Debug\Problem 8-Square Root.pdb
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 8-Square Root\obj\Debug\Problem 8-Square Root.csprojResolveAssemblyReference.cache
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 8-Square Root\obj\Debug\Problem 8-Square Root.exe
+C:\Users\Pineda\Documents\Visual Studio 2013\Projects\C# part I\C# Introduction to Programming Homework\Problem 4 - HelloCSharp\Problem 8-Square Root\obj\Debug\Problem 8-Square Root.pdb

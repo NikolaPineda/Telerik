@@ -1,0 +1,5 @@
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 2-Gravitation on the Moon\bin\Debug\Problem 2-Gravitation on the Moon.exe.config
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 2-Gravitation on the Moon\bin\Debug\Problem 2-Gravitation on the Moon.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 2-Gravitation on the Moon\bin\Debug\Problem 2-Gravitation on the Moon.pdb
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 2-Gravitation on the Moon\obj\Debug\Problem 2-Gravitation on the Moon.exe
+c:\users\pineda\documents\visual studio 2013\Projects\Problem 1-Odd or Even Integers\Problem 2-Gravitation on the Moon\obj\Debug\Problem 2-Gravitation on the Moon.pdb
