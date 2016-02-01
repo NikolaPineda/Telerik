@@ -1,0 +1,22 @@
+﻿table, td {
+    border: 1px solid;
+}
+td.firstColum {
+    text-align: center;
+    width: 150px; 
+}
+td {
+    width: 350px;
+}
+td.Adsress {
+    text-align: center;
+    height: 100px;
+    width: 150px;
+}
+td.center{
+text-align:center;
+background-color:#99FFFF;
+}
+
+  
+

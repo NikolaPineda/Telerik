@@ -1,0 +1,8 @@
+﻿h1.MainHead {
+    text-decoration: underline;
+    color: blue;
+    
+}
+#BorderHeader {
+    border: 2px black;
+}

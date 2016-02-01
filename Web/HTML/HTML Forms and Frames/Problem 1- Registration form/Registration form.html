@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registration Form</title>
+    <meta charset="UTF-8">
+    <link href="Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+    <section>
+        <form name="RegForm" method="POST">
+            <table cellpadding="3" cellspacing="0">
+                <colgroup>
+                    <col span="1" id="firstColum"/>
+                    <col span="3"/>
+                </colgroup>
+                <tfoot>
+                <tr>
+                    <td colspan="4" class="center">
+                        <input type="submit" name="Submit" value="submit"/>
+                        <input type="reset" name="reset" value="reset"/>
+                    </td>
+                </tr>
+                </tfoot>
+                <tbody>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Last Name</strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" name="Last Name" size="40"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>First Name</strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" name="Last Name" size="40"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="Adsress">
+                        <strong>Address</strong>
+                    </td>
+                    <td colspan="3">
+                        <textarea name="address" rows="6" cols="40"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>City</strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" size="30"/>
+                        State
+                        <input type="text" size="4"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Zip/Postal Code</strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="text" size="7"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Country</strong>
+                    </td>
+                    <td colspan="3">
+                        <select name="Country" id="country">
+                            <option value="value1" selected="selected">Bulgaria</option>
+                            <option value="value2">Greese</option>
+                            <option value="value3">Rossia</option>
+                            <option value="value4">USA</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Phone(country code, area code, number)</strong>
+                    </td>
+                    <td colspan="3">
+                        (+
+                        <input type="number" name="Country code" style="width: 70px"/>)
+                        <input type="number" name="Area code" style="width: 70px"/>
+                        <input type="number" name="Number" style="width: 130px"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>E-mail</strong>
+                    </td>
+                    <td colspan="3">
+                        <input type="email" name="Email" style="width: 300px"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Birth date</strong>
+                    </td>
+                    <td colspan="3">
+                        Month
+                        <input type="number" name="month" style="width: 30px"/>
+                        Day
+                        <input type="number" name="day" style="width: 30px"/>
+                        Year
+                        <input type="number" name="year" style="width: 70px"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Gender</strong>
+                    </td>
+                    <td colspan="3">
+                        <select name="Gender" id="Gender">
+                            <option>Male</option>
+                            <option>Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Starting date</strong>
+                    </td>
+                    <td>
+                        <input type="radio" name="starting"/>
+                        Spring 2015
+                        <input type="radio" name="starting"/>
+                        Sumer 2015
+                    </td>
+                </tr>
+                <tr>
+                    <td class="firstColum">
+                        <strong>Comments/Questions</strong>
+                    </td>
+                    <td colspan="3">
+                        <textarea name="Questions" rows="4" cols="30"></textarea>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </form>
+    </section>
+</body>
+</html>
