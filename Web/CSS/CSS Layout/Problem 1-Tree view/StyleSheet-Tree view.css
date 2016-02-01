@@ -1,0 +1,22 @@
+﻿
+ul {
+    list-style: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+nav ul ul{
+    display: none;
+}
+nav ul li:hover > ul {
+    display: block;
+}
+nav ul li ul li a {
+    color: gray;
+    list-style: none;
+}
+

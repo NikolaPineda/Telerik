@@ -1,0 +1,81 @@
+﻿
+body, h1, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+section {
+    width: 400px;
+    background-color: #EEEEEE;
+    padding: 10px;
+    -ms-border-radius: 10px;
+    border-radius: 15px;
+    margin: 10px;
+}
+img {
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 5px;
+    border: solid 1px black;
+}
+li {
+    background-color: white;
+    width: 350px;
+    height: 120px;
+    margin: 5px;
+    margin-bottom: 25px;
+    padding: 15px; 
+    border: 1px solid;
+    border-color: black;
+    
+}
+ul {
+    list-style: none;
+}
+h1 {
+    font-weight: normal;
+    font-size: 1.2em;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+li .largeBtn {
+    background-image: url('largeBtn.png');
+    width: 80px;
+    height: 25px;
+    position:absolute;
+    -webkit-transition: .5s ease;
+    -moz-transition: .5s ease;
+    -ms-transition: .5s ease;
+    -o-transition: .5s ease;
+    transition: .5s ease;
+    left: 245px;
+}
+li .smallBtn {
+    background-image: url('smallBtn.png');
+    width: 60px;
+    height: 25px;
+    position:absolute;
+    -webkit-transition: .5s ease;
+    -moz-transition: .5s ease;
+    -ms-transition: .5s ease;
+    -o-transition: .5s ease;
+    transition: .5s ease;
+    left: 330px;
+}
+
+button {
+    color: white;
+    border-bottom: solid 2px black;
+    border-right: solid 2px black;
+    border-top: solid 2px darkgrey;
+    border-left: solid 2px darkgrey;
+    margin-bottom: 10px;
+}
+li p {
+    width: 170px;
+    height: 80px;
+    overflow: auto;
+    display: inline-block;
+    margin: 7px;
+    padding: 2px;    
+}

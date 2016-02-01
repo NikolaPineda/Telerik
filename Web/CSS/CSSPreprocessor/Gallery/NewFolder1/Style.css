@@ -1,0 +1,73 @@
+﻿body {
+  /* Variable */
+  /* Reset All  */
+}
+body html,
+body header,
+body nav,
+body body,
+body h1,
+body h2,
+body h3,
+body ol,
+body dl,
+body dd,
+body dt,
+body li,
+body ul,
+body a,
+body img,
+body input,
+body footer,
+body aside,
+body tr,
+body td,
+body table,
+body th,
+body thead {
+  margin: 0;
+  padding: 0;
+}
+body body {
+  background-color: silver;
+}
+body body section.gallery {
+  text-align: center;
+}
+body body section.gallery ul {
+  position: relative;
+  margin-top: 20px;
+}
+body body section.gallery li {
+  display: inline;
+  list-style-type: none;
+}
+body body section.gallery li:target .gallery-thumbnail {
+  display: inline;
+  opacity: 1;
+}
+body body section.gallery li:target .gallery-photo {
+  display: block;
+  position: absolute;
+  margin-top: 10px;
+  left: 25%;
+  right: 25%;
+}
+body body section.gallery li:target .gallery-photo img {
+  border: 2px solid #000000;
+}
+body body section.gallery .gallery-photo {
+  display: none;
+}
+body body section.gallery .gallery-thumbnail {
+  opacity: 0.4;
+  transition: opacity 0.5s ease-out;
+}
+body body section.gallery .gallery-thumbnail:hover {
+  opacity: 0.7;
+}
+body body section.gallery .gallery-thumbnail img {
+  border: 2px solid #000000;
+  width: 15%;
+}
+/*# sourceMappingURL=Style.css.map */

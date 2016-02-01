@@ -1,0 +1,7 @@
+﻿div {
+    background: black;
+    -ms-border-radius: 90px;
+    border-radius: 90px;
+    border: 1px solid red;
+    margin-right: 5%;
+}

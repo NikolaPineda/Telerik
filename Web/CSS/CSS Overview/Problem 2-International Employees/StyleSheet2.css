@@ -1,0 +1,14 @@
+﻿th {
+    text-align: left;
+    background-color: #00CC00;
+    color: white;  
+}
+table th td{
+    border: 1px solid black; 
+}
+.longTH {
+    width: 150px;
+}
+tbody tr:nth-child(even) {
+    background-color: lightgray;
+}

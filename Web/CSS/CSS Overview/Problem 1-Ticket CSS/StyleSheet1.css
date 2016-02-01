@@ -1,0 +1,26 @@
+﻿body { 
+    background-color: gray
+}
+h1 {
+    font-weight: lighter;
+    color: lightgray;
+    font-size: 20px; 
+}
+dt {
+    color: whitesmoke;
+    font-style: italic;
+    float: left;
+}
+.status {
+    color: red;
+}
+.greyText {
+    color: lightgray;
+}
+dd,a {
+    color: lightgreen;
+}
+dd {
+    margin-left: 8em;
+}
+
